@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--navigation dimens-->
+    <dimen name="text_navigation_menu">21sp</dimen>
+    <dimen name="menu_left_margin">10dp</dimen>
+    <dimen name="menu_top_margin">10dp</dimen>
+    <dimen name="cross_image_size">38dp</dimen>
+    <dimen name="text_view_height">40dp</dimen>
+    <dimen name="button_height">35dp</dimen>
+    <dimen name="height_100">100dp</dimen>
+    <dimen name="margin_70">70dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+
+    <dimen name="nav_header_height">150dp</dimen>
+    <dimen name="side_nav_bar"></dimen>
+</resources>
